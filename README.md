@@ -10,10 +10,10 @@ torchvision 0.6.0
 # Getting Started
 * Train the model:  
 
-python train_CUFS.py  
+&ensp;&ensp;python train_CUFS.py  
 * Test the model:  
 
-python test.py  
+&ensp;&ensp;python test.py  
 # Acknowledgments
 This code is a simple implementation of [pix2pix](https://phillipi.github.io/pix2pix/). Easier to understand.  
 Highly recommend the more sophisticated and organized code [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) by [Jun-Yan Zhu](https://github.com/junyanz).  
