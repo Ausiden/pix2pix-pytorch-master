@@ -10,7 +10,7 @@ torchvision 0.6.0
 # Getting Started
 * Train the model:  
 
-&ensp;&ensp;&ensp;&ensp;python train_CUFS.py  
+&ensp;&ensp;&ensp;&ensp;python trainCUFS.py  
 * Test the model:  
 
 &ensp;&ensp;&ensp;&ensp;python test.py  
