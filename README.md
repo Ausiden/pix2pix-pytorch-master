@@ -15,9 +15,11 @@ cuda 10.1
 torchvision 0.6.0
 
 Train the model:
+
 python train_CUFS.py
 
 Test the model:
+
 python test.py
 
 Acknowledgments
