@@ -1,6 +1,6 @@
 # pix2pix-pytorch-master
 PyTorch implementation of [Image-to-Image Translation Using Conditional Adversarial Networks](https://github.com/mrzhu-cool/pix2pix-pytorch).  
-Based on [pix2pix](https://phillipi.github.io/pix2pix/) by [Phillip Isola] et al(https://github.com/phillipi).  
+Based on [pix2pix](https://phillipi.github.io/pix2pix/) by [Phillip Isola](https://github.com/phillipi) et al.  
 # Prerequisites
 Linux  
 Python, Numpy, PIL  
