@@ -9,8 +9,10 @@ cuda 10.1
 torchvision 0.6.0  
 # Getting Started
 * Train the model:  
+
 python train_CUFS.py  
 * Test the model:  
+
 python test.py  
 # Acknowledgments
 This code is a simple implementation of [pix2pix](https://phillipi.github.io/pix2pix/). Easier to understand.  
